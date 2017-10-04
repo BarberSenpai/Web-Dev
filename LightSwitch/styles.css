@@ -1,0 +1,25 @@
+#on{
+	height: 100px;
+	width: 100px;
+	background-color: white;
+	margin-left: 10px;
+	display: block;
+	float: left;
+	text-align: center;
+}
+#off{
+	height: 100px;
+	width: 100px;
+	background-color: gray;
+	margin-left: 130px;
+	display: block;
+	text-align: center;
+}
+
+.box{
+	height: 100px;
+	width: 250px;
+	background-color: gray;
+	
+	margin: auto;
+}

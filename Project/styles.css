@@ -1,0 +1,69 @@
+body {
+  background-image: url("Images/background.jpg");
+  background-repeat: repeat-y;
+  color: #414141;               /* Dark gray */
+  background-color: #EEEEEE;    /* Light gray */
+  font-size: 18px;
+  
+}
+
+h1{
+    font-size: 4.6em;
+}
+
+#logo {
+  position: fixed;
+  left: 31%;
+}
+
+
+#meme {
+  position: fixed;
+  left: 37.5%;
+  top: 23%;
+}
+
+#value {
+  position: fixed;
+  font-size: 2.2em;
+  left: 43.5%;
+  top: 14%;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: bold; 
+  color: green;  
+}
+
+#pass{
+    position: fixed;
+    left: 5%;
+    top: 22%;
+    width: 500px;
+    height: 500px;
+}
+
+#buy{
+    position: fixed;
+    left: 68%;
+    top: 22%;
+    width: 500px;
+    height: 500px;
+}
+
+#portfolio{
+    position: fixed;
+    left: 86%;
+    top: 80%;
+    width: 150px;
+    height: 150px;
+}
+
+
+#wallet {
+  position: fixed;
+  font-size: 2.2em;
+  left: 5%;
+  top: 83%;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: bold; 
+  color: green;  
+}
