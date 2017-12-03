@@ -1,0 +1,23 @@
+#app > header {
+    padding: 0 12.5em;
+    font-size: 4.5em;
+    color: WhiteSmoke;
+    background-color: #006;
+}
+
+#footer {
+    padding: 0 12.5em;
+    font-size: 4.5em;
+    color: WhiteSmoke;
+    background-color: #006;
+    margin-top: 267px;
+}
+
+#button {
+    margin-top: 167px;
+    margin-left: 913px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+
