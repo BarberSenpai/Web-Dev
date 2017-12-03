@@ -1,0 +1,11 @@
+
+#app > header {
+    position: absolute;
+    padding: 0 17.5em;
+    font-size: 5.5em;
+}
+
+#toolbar {
+    padding: 3.25em;
+    font-size: 2.8em;
+}
