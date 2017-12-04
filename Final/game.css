@@ -1,0 +1,49 @@
+#app > header {
+    text-align: center;;
+    font-size: 4.5em;
+    color: WhiteSmoke;
+    background-color: #006;
+}
+
+#footer {
+    text-align: center;
+    font-size: 4.5em;
+    color: WhiteSmoke;
+    background-color: #006;
+}
+
+#button {
+    display: block;
+    margin: auto;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+#draw {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+#card1{
+    display: none;
+    margin: 0 auto;
+}
+
+#card2{
+    display: none;
+    margin: 0 auto;
+}
+
+#playerone{
+    text-align: center;
+    vertical-align: top;
+}
+
+
+#playertwo{
+    text-align: center;
+}
+
+
+
